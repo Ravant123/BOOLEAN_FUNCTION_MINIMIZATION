@@ -40,27 +40,19 @@ RegisterNumber:24900151 */
 
 i)function 1
 
-module funct1(a,b,c,d,f1);
-
-input a,b,c,d;
-
-output f1;
-
-assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
-
-endmodule
+    module funct1(a,b,c,d,f1);
+    input a,b,c,d;
+    output f1;
+    assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
+    endmodule
 
 ii) function 2
 
-module funct2(w,x,y,z,f2);
-
-input w,x,y,z;
-
-output f2;
-
-assign f2=((~y & z)|( w & y )|(x & y));
-
-endmodule
+    module funct2(w,x,y,z,f2);
+    input w,x,y,z;
+    output f2;
+    assign f2=((~y & z)|( w & y )|(x & y));
+    endmodule
 
 
 
