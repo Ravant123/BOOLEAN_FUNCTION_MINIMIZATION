@@ -80,9 +80,9 @@ ii) function 2
 ![WhatsApp Image 2024-12-03 at 20 31 38_60d604a6](https://github.com/user-attachments/assets/266c6a55-f0ef-4f6b-a41d-423567385c58)
 
 **k map**
+![k map 1](https://github.com/user-attachments/assets/c8b580dd-49bb-41bd-a75b-233775f18fe3)
 
-![WhatsApp Image 2024-12-03 at 20 31 39_3e52f71d](https://github.com/user-attachments/assets/c99adf14-68b2-4ed7-8c54-2175d14b802b)
-![WhatsApp Image 2024-12-03 at 20 31 39_ceef6a94](https://github.com/user-attachments/assets/d0412058-dbac-458d-b85c-15f0b039bcdd)
+![k map 2](https://github.com/user-attachments/assets/577c0f08-8449-40b0-86e3-758d99b0060c)
 
 
 
