@@ -80,9 +80,11 @@ ii) function 2
 ![WhatsApp Image 2024-12-03 at 20 31 38_60d604a6](https://github.com/user-attachments/assets/266c6a55-f0ef-4f6b-a41d-423567385c58)
 
 **k map**
+
 ![k map 1](https://github.com/user-attachments/assets/c8b580dd-49bb-41bd-a75b-233775f18fe3)
 
-![k map 2](https://github.com/user-attachments/assets/577c0f08-8449-40b0-86e3-758d99b0060c)
+![k map](https://github.com/user-attachments/assets/1d31a2b2-661f-43b0-a808-bde927b7f3a8)
+
 
 
 
